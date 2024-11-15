@@ -1,4 +1,3 @@
 # Snek
-Snake Game
+Snake Game versão do jogo snake feito com Python e a bliblioteca Pygame
 
-It's just the snake game
